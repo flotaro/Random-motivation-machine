@@ -1,0 +1,20 @@
+h1, h3 {
+    text-align: center
+  }
+  #new-quote {
+    margin: 50px;
+  }
+  a {
+    text-align: center
+  }
+  div{
+    margin: auto;
+    width: 70%;
+    border: 3px solid red;
+    padding: 10px;
+  }
+  #intro {
+    color: blue;
+    font-family: "Times New Roman", Times, serif;
+  }
+  
